@@ -8,7 +8,7 @@ const settings = {
     RED: "\x1b[31m",
     BOLD: "\x1b[1m",
     RESET: "\x1b[0m",
-    totalIterations: 5,
+    totalIterations: 6,
     rpcUrl: 'https://opbnb.rpc.thirdweb.com',
     contractAddress: '0x9465fe0e8cdf4e425e0c59b7caeccc1777dc6695',
     keysPath: './keys.txt',
